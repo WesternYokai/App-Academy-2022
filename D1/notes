@@ -1,0 +1,5 @@
+Example changes
+git add *
+git status
+git commit -m "Test"
+git push
